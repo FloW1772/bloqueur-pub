@@ -1,8 +1,8 @@
 {
     "name": "Twitch Adblocker",
-    "version": "2.0",
+    "version": "3.0",
     "description": "Bloque les publicités sur Twitch",
-    "manifest_version": 5,
+    "manifest_version": 6,
     "content_scripts": [
       {
         "matches": ["https://www.twitch.tv/*"],
